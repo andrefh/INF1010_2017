@@ -1,0 +1,4 @@
+interface skrivInfo{
+	
+	void skrivInfo();
+}
